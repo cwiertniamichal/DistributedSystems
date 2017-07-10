@@ -1,0 +1,5 @@
+IceStorm.InstanceName=IceStorm
+
+IceStorm.TopicManager.Endpoints=default -h localhost -p 10000
+
+IceStorm.Publish.Endpoints=tcp -h localhost -p 10001:udp -h localhost -p 10001

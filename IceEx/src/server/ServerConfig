@@ -1,0 +1,14 @@
+adapter.Endpoints=tcp -h localhost -p 10000:udp -h localhost -p 10000
+Camera1.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+Camera2.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+NightCamera1.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+NightCamera2.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+VarFocalLenCamera1.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+VarFocalLenCamera2.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+Lab.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+Robot1.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+Robot2.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+RobotWithArm1.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+RobotWithArm2.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+RobotWithShovel1.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000
+RobotWithShovel2.Proxy=tcp -h localhost -p 10000:udp -h localhost -p 10000

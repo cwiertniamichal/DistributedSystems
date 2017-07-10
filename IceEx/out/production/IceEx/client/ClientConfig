@@ -1,0 +1,3 @@
+Client.LabProxy=Lab:tcp -h localhost -p 10000:udp -h localhost -p 10000
+reporterAdapter.Endpoints=tcp:udp
+Client.TopicManager=DemoIceStorm/TopicManager:default -h localhost -p 9999
